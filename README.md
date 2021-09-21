@@ -1,6 +1,6 @@
-# Tugas-1 Grafkom
+# Tugas-1 Grafkom A
 
-M.Fajri Davyza Chaniago <br>
+M.Fajri Davyza Chaniago <br> 05111940000180
 <br>
 <br>
 
